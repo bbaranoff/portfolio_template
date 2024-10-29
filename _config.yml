@@ -1,0 +1,24 @@
+title: Bastien Baranoff
+description: Resources
+
+theme: null
+
+readme_index:
+  with_frontmatter: true
+
+plugins:
+  - jemoji
+  - jekyll-avatar
+  - jekyll-mentions
+  - jekyll-github-metadata
+  - jekyll-cookies
+
+google_analytics: G-VYSL22WMS1
+
+exclude:
+  - .bash
+  - .github
+  - Gemfile
+  - Gemfile.lock
+  - jekyll-theme-read-the-docs.gemspec
+  - LICENSE
